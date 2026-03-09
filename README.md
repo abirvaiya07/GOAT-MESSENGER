@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3500&pause=700&color=58A6FF&center=true&vCenter=true&width=780&lines=🤖+𝗚𝗼𝗮𝘁+𝗕𝗼𝘁+𝗩2;⚡+𝗡𝗲𝘅𝘁-𝗚𝗲𝗻+𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿+𝗕𝗼𝘁" alt="Typing SVG" />
   
   <p align="center">
-    Custom Modified By <b>Mohammad Akash</b>
+    Custom Modified By <b>EryxenX </b>
   </p>
   
   <p align="center">
@@ -37,7 +37,7 @@
 - 🎮 Entertainment commands
 - ⚙️ Custom automation features
 
-> ⚠️ This repository is a **modified educational fork** maintained by **Mohammad Akash**.
+> ⚠️ This repository is a **modified educational fork** maintained by **EryXenX**.
 
 ---
 
@@ -88,19 +88,19 @@
 ## 🌐 Connect With Developer
 
 <p align="center">
-  <a href="https://facebook.com/arakashprofb">
+  <a href="https://facebook.com/EryXenX">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
-  <a href="https://t.me/arakashiam">
+  <a href="https://t.me/EryXenX">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
-  <a href="https://youtube.com/@akashbotdev">
+  <a href="https://youtube.com/@EryXenX">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/akashxx404">
+  <a href="https://instagram.com/EryXenX">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
