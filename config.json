@@ -19,9 +19,9 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100078049308655",
-    "55297214737376",
-    ""
+    "61583835186508",
+    " ",
+    " "
   ],
   "reactUnsend": {
     "enable": true,
@@ -95,13 +95,13 @@
   },
   "autoRefreshFbstate": true,
   "autoReloginWhenChangeAccount": false,
-  "autoRestartWhenListenMqttError": false,
+  "autoRestartWhenListenMqttError": true,
   "restartListenMqtt": {
     "enable": true,
-    "timeRestart": 3600000,
+    "timeRestart": 60000,
     "delayAfterStopListening": 2000,
     "logNoti": true,
-    "notes": "Restart listener every hour."
+    "notes": "Restart listener every 1 minute."
   },
   "notiWhenListenMqttError": {
     "notes": "Notification settings when MQTT stops listening.",
@@ -148,7 +148,7 @@
     "selfListen": false,
     "selfListenEvent": true,
     "autoMarkDelivery": false,
-    "autoReconnect": false,
+    "autoReconnect": true,
     "notes": "Docs: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions"
   }
 }
